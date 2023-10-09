@@ -1,0 +1,32 @@
+[
+  {
+    "DNI": "987654321",
+    "Nombres": "María",
+    "Apellidos": "Gómez",
+    "FechaNacimiento": "1985-05-15",
+    "Rol": "Admin",
+    "Telefono": "9876543210",
+    "Correo": "maria.gomez@example.com",
+    "Contraseña": "securepass",
+    "NombreUsuario": "mariagomez",
+    "Clientes": [
+      "cliente3",
+      "cliente4"
+    ]
+  },
+  {
+    "DNI": "123456792",
+    "Nombres": "JuanA",
+    "Apellidos": "Pérez",
+    "FechaNacimiento": "1990-01-01",
+    "Rol": "Usuario",
+    "Telefono": "1234567890",
+    "Correo": "juan.perez@example.com",
+    "Contraseña": "password1234*",
+    "NombreUsuario": "juanperez",
+    "Clientes": [
+      "cliente1",
+      "cliente2"
+    ]
+  }
+]
